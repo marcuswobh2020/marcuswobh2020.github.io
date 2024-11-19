@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://marcuswobh2020.github.io/marcuswobh2020_github_io_zp532_1.txt
+Sitemap: https://marcuswobh2020.github.io/marcuswobh2020_github_io_zp532_14.txt
+Sitemap: https://marcuswobh2020.github.io/marcuswobh2020_github_io_zp532_19.txt
+Sitemap: https://marcuswobh2020.github.io/marcuswobh2020_github_io_zp532_23.txt
+Sitemap: https://marcuswobh2020.github.io/marcuswobh2020_github_io_zp532_4.txt
+Sitemap: https://marcuswobh2020.github.io/marcuswobh2020_github_io_zp532_9.txt
